@@ -1,2 +1,4 @@
-# fluffy-happiness
-Theme nya Madara Mangabooth 2.0 (NO LICENSE, GO BUY IT!)
+madara
+===
+
+madara is starter theme built for Madara's projects
